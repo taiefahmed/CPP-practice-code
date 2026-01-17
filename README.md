@@ -1,2 +1,1 @@
-# My-all-practice-code
-This is my all practice code repository
+I solved the problem with Codeforces, CodeChef,leetcode,some contest qustion and some external ones.
